@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">bigredbutton</string>
+    <string name="app_name">BigRedButton</string>
+    <string name="wrong_button">Unknown button. How did you do that?</string>
+    <string name="button_pressed_text">You pressed the button %d times now. Be careful!</string>
+    <string name="button_pressed_title">BOOM!</string>
 </resources>
